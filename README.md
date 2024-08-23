@@ -43,14 +43,14 @@ This Python script scrapes product details from an Amazon product page, includin
 1. **Run the Script**: Execute the script using the following command:
 
     ```bash
-    python amazon_scraper.py
+  amazon_scrape_final.ipynb
     ```
 
 2. **Check the Output**: After running the script, a ipynb file named `amazon_scrape_final.ipynb  will be created in the same directory, containing the scraped product details.
 
 ## Example Output
 
-The `amazon_product_data.json` file will look like this:
+The `amazon_scrape_final.ipynb` file will look like this:
 
 ```json
 {
