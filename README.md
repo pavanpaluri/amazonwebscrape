@@ -54,7 +54,7 @@ The `amazon_product_data.json` file will look like this:
 
 ```json
 {
-    "title": "Echo Dot (4th Gen, 2020 release) | Smart speaker with Alexa | Charcoal",
-    "price": "$49.99",
+    "title": "gaming| playstation 4",
+    "price": "$49",
     "rating": "4.7 out of 5 stars"
 }
