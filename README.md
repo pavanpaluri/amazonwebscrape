@@ -46,7 +46,7 @@ This Python script scrapes product details from an Amazon product page, includin
     python amazon_scraper.py
     ```
 
-2. **Check the Output**: After running the script, a JSON file named `amazon_product_data.json` will be created in the same directory, containing the scraped product details.
+2. **Check the Output**: After running the script, a ipynb file named `amazon_scrape_final.ipynb  will be created in the same directory, containing the scraped product details.
 
 ## Example Output
 
