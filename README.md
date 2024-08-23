@@ -55,6 +55,6 @@ The `amazon_product_data.json` file will look like this:
 ```json
 {
     "title": "gaming| playstation 4",
-    "price": "$49",
+    "price": "$619",
     "rating": "4.7 out of 5 stars"
 }
